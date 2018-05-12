@@ -1,0 +1,53 @@
+_repo: Debit-and-CreditTranslated-from-the-German-of-Gustav-Freytag_19754
+_version: 0.1.0
+alternative_title: Soll und Haben. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freytag, Gustav
+    alias: Freitag, Gustav
+    birthdate: 1816
+    deathdate: 1895
+    gutenberg_agent_id: '8864'
+    url: http://www.gutenberg.org/2009/agents/8864
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Freytag
+description: "In double entry bookkeeping, debits and credits (abbreviated Dr and\
+  \ Cr, respectively) are entries made in account ledgers to record changes in value\
+  \ resulting from business transactions. Generally speaking, the source for spending\
+  \ money in a transaction in the account is credit (that is, an entry is made on\
+  \ the right side of the account's ledger), and what the money obtained with the\
+  \ credit is described as a debit (that is, an entry is made on the left side). Credits\
+  \ could be share capital, revenues, etc., while debits could be assets, dividends,\
+  \ and so on. From a technical point of view, the sides refer to the balance sheet\
+  \ placement of accounts. Total debits must equal total credits for each transaction;\
+  \ individual transactions may require multiple debit and credit entries.\nThe difference\
+  \ between the total debits and total credits in a single account is the account's\
+  \ balance. If debits exceed credits, the account has a debit balance; if credits\
+  \ exceed debits, the account has a credit balance. For the company as a whole, the\
+  \ totals of debit balances and credit balances must be equal as shown in the trial\
+  \ balance report, otherwise an error has occurred.\nAccountants use the trial balance\
+  \ to prepare financial statements.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19754'
+  wikidata: Q2298931
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mercantile system -- Germany -- Fiction'
+- !lcsh 'Social classes -- Germany -- Fiction'
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+title: 'Debit and Credit
+
+  Translated from the German of Gustav Freytag'
+url: http://www.gutenberg.org/ebooks/19754
+wikipedia:
+- https://eo.wikipedia.org/wiki/Debeto_kaj_kredito
+- https://de.wikipedia.org/wiki/Soll_und_Haben_(Roman)
+- https://en.wikipedia.org/wiki/Debit_and_Credit
