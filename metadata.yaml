@@ -29,6 +29,8 @@ description: "In double entry bookkeeping, debits and credits (abbreviated Dr an
   \ totals of debit balances and credit balances must be equal as shown in the trial\
   \ balance report, otherwise an error has occurred.\nAccountants use the trial balance\
   \ to prepare financial statements.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19754#Debit-and-CreditTranslated-from-the-German-of-Gustav-Freytag
 gutenberg_issued: '2006-11-11'
 gutenberg_type: Text
 identifiers:
